@@ -13,4 +13,4 @@ This repository is based on [github-label-template](https://github.com/xaviercho
 * [github-label-template](https://github.com/xavierchow/github-label-template)
 * [Facebook](https://github.com/facebook)
 * [Google](https://github.com/google)
-* [Microsoft]([https://github.com/google](https://github.com/microsoft))
+* [Microsoft](https://github.com/microsoft)
