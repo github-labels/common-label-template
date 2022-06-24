@@ -1,7 +1,7 @@
-# label-template
+# common-label-template
 A collection of common labels.
 
-[Labels of this repository](https://github.com/preeded/label-template/labels)
+[Labels of this repository](https://github.com/preeded/common-label-template/labels)
 
 And also see [Here](https://github.com/preeded/yagls/blob/main/yagls/generator.py).
 
