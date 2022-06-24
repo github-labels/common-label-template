@@ -1,11 +1,11 @@
 # common-label-template
 A collection of common labels.
 
-[Labels of this repository](https://github.com/preeded/common-label-template/labels)
+[Labels of this repository](https://github.com/github-labels/common-label-template/labels)
 
-And also see [Here](https://github.com/preeded/yagls/blob/main/yagls/generator.py).
+And also see [Here](https://github.com/github-labels/yagls/blob/main/yagls/generator.py).
 
-If you want to use the labels in this repository, please consider using [yagls](https://github.com/preeded/yagls).
+If you want to use the labels in this repository, please consider using [yagls](https://github.com/github-labels/yagls).
 
 ------
 
